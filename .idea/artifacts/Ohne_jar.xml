@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ohne:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ohne_jar</output-path>
+    <root id="archive" name="Ohne.jar">
+      <element id="module-output" name="Ohne" />
+    </root>
+  </artifact>
+</component>
